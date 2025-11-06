@@ -33,4 +33,6 @@ project-q1-programming-basics/
 ├── main.c  
 ├── functions.c  
 ├── functions.h  
+├── analyzer.c  
+├── analyzer.h  
 └── README.md  
