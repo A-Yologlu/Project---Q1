@@ -28,9 +28,9 @@ To create a functional and well-structured C program that:
 ---
 
 ## 🧩 File Structure
-project-q1-programming-basics/
-│
-├── main.c
-├── functions.c
-├── functions.h
-└── README.md
+project-q1-programming-basics/  
+│  
+├── main.c  
+├── functions.c  
+├── functions.h  
+└── README.md  
