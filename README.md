@@ -26,7 +26,6 @@ Then displays:
 - Loops (`for`, `while`)
 - Conditionals (`if`, `else if`, `else`)
 - Arrays and string arrays
-- Pointers (basic understanding)
 - String manipulation (`strlen`, custom string functions)
 - Sorting algorithms (bubble sort / selection sort)
 - Modular programming and code organization
