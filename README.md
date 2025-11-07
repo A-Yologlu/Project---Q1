@@ -6,12 +6,18 @@ It combines the main topics from the first 7 weeks — including string manipula
 ---
 
 ## 🎯 Project Goal
-To create a functional and well-structured C program that:
-- Reads multiple strings from the user
-- Stores them in an array
-- Analyzes each string (for example, counts vowels or checks for duplicates)
-- Sorts or modifies the strings using custom-made functions
-- Displays clear and formatted results
+To create a functional and well-structured C program that analyzes each sentence for:
+- Number of vowels
+- Number of consonants
+- Number of words
+- Average word length
+- Whether it contains only whitespace
+
+Then displays:
+- The sentence with the most vowels
+- The sentence with the fewest vowels
+- The longest and shortest sentence
+- The alphabetically first and last sentence
 
 ---
 
